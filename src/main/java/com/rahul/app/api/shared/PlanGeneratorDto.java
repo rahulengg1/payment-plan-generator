@@ -6,9 +6,7 @@ import java.math.BigDecimal;
 public class PlanGeneratorDto implements Serializable{
 
 	
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = -5578284222887505035L;
 	
 	private double loanAmount;	
