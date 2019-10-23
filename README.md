@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository.
 2. Go inside the project directory using command line.
-3. Install mvn and execute mvn clean spring-boot:run. Application port is 8080, you can change in Application.properties file.
+3. Install mvn and execute mvn clean spring-boot:run. Application port is 8080, you can change in application.properties file.
 4. Test the endpoint localhost:8080/generate-plan using the request payload mentioned below using any REST API test tools such as     Postman or SoapUi.
 
 
